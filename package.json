@@ -1,7 +1,7 @@
 {
   "name": "esenciales-de-javascript",
   "version": "1.0.0",
-  "description": "Ejercicios del taller",
+  "description": "",
   "main": "index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
@@ -17,5 +17,6 @@
   },
   "resolutions": {
     "@babel/preset-env": "7.13.8"
-  }
+  },
+  "keywords": []
 }

@@ -1,4 +1,4 @@
-// import "./src/1-functions";
+import "./src/1-functions";
 // import "./src/2-scope";
 // import "./src/3-block-scope";
 // import "./src/4-hoisting";
@@ -13,4 +13,4 @@
 // import "./src/9-template-strings";
 // import "./src/10-destricturing";
 // import "./src/11-rest-spread";
-import "./src/12-optional";
+// import "./src/12-optional";
