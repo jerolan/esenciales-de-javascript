@@ -1,7 +1,5 @@
-"use strict";
-
 /**
- * Variables primitivas.
+ * Objetos con referencia.
  */
 let propiedades = {
   nombre: "<Pon tu nombre aquí>",
