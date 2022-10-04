@@ -1,1 +1,1 @@
-import "./src/2-scope";
+import "./src/3-block-scope";
