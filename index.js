@@ -9,4 +9,8 @@
 // import "./src/7-1-async.js";
 // import "./src/7-2-async.js";
 // import "./src/7-3-async.js";
-import "./src/8-modules";
+// import "./src/8-modules";
+// import "./src/9-template-strings";
+// import "./src/10-destricturing";
+// import "./src/11-rest-spread";
+import "./src/12-optional";
