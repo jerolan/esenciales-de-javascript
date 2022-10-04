@@ -1,1 +1,1 @@
-import "./src/1-functions";
+import "./src/2-scope";
