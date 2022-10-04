@@ -8,4 +8,5 @@
 // import "./src/6-2-refs";
 // import "./src/7-1-async.js";
 // import "./src/7-2-async.js";
-import "./src/7-3-async.js";
+// import "./src/7-3-async.js";
+import "./src/8-modules";
